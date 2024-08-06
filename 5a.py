@@ -1,0 +1,7 @@
+tuple1 = (1, 2, 3, 4, 5)
+print("Tuple1: ", tuple1)
+tuple1 += (6, 7)
+print("Tuple1 after adding (6, 7): ", tuple1)
+print("Length of Tuple1: ", len(tuple1))
+print("Is 3 present in Tuple1: ", 3 in tuple1)
+print("Accessing 4th element of Tuple1: ", tuple1[3])
